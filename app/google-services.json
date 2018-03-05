@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "391177709947",
+    "firebase_url": "https://tabianconsulting-c8f35.firebaseio.com",
+    "project_id": "tabianconsulting-c8f35",
+    "storage_bucket": "tabianconsulting-c8f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391177709947:android:d0a59282e562de2a",
+        "android_client_info": {
+          "package_name": "com.khairy.tabingconsulting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391177709947-dedf98c3dqpjp37uegurfp0ph8rn9qr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khairy.tabingconsulting",
+            "certificate_hash": "8e011907a4e9a9828990411f2ed0227d118fc687"
+          }
+        },
+        {
+          "client_id": "391177709947-aivnet18gnkt73n3dfdcbmailenlo82b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB5UE2f49nFB439TssxFcWc4D2ODkioZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391177709947-aivnet18gnkt73n3dfdcbmailenlo82b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
